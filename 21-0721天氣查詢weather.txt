@@ -1,0 +1,14 @@
+Build a Weather App in React JS | React JS beginner Tutorial
+https://youtu.be/GuA0_Z1llYU
+
+-----
+導入react方法
+1.將檔案[Weather21-0721資料夾]放置於src資料夾內
+2.至src資料夾>>index.js檔案中插入以下程式碼
+import WeatherAPI from './Weather21-0721/WeatherAPI'
+
+<WeatherAPI />
+
+---
+>檔案位置>
+my-react-app(自訂名稱) >> src >> Weather21-0721資料夾
