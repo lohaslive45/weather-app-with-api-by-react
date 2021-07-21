@@ -1,6 +1,8 @@
 Build a Weather App in React JS | React JS beginner Tutorial
 https://youtu.be/GuA0_Z1llYU
 
+天氣api網站
+https://openweathermap.org/api
 -----
 導入react方法
 1.將檔案[Weather21-0721資料夾]放置於src資料夾內
